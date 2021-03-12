@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there and welcome to my profile!
 
+- I’m currently working on my portfolio website, which is a ReactJS frontend and Java Spring backend. 
+- I’m currently learning Spring, Spring MVC, Spring boot, Maven, Gradle.
+- Fun fact: I started and operated a small business selling home furnishings while attending college.
+- Looking for permanent work as a software engineer. 
+- Contact me via email: marc.rios1712@gmail.com
 <!--
 **mkurmarc/mkurmarc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
