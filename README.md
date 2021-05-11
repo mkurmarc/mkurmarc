@@ -3,7 +3,7 @@
 - I’m currently working on my portfolio website, which is a ReactJS frontend and Node.js backend 
 - Fun fact: I started and operated a small business selling home furnishings while attending college.
 - Graduated with BS in Computer Science, February 2021.
-- Looking for permanent work as a software engineer. 
+- Looking for permanent work as a web focused software engineer. 
 - Contact me via email: marc.rios1712@gmail.com
 <!--
 **mkurmarc/mkurmarc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
