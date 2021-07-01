@@ -1,6 +1,6 @@
 ### Hi there and welcome to my profile!
 
-- I’m currently working on my portfolio website using ReactJS, Node.js, Express, and MongoDB.
+- I’m currently working on my portfolio website using vanilla JS, Node.js, EJS, Express, and MongoDB.
 - My skills:
     - **Javascript**, HTML, and CSS
     - **Java**, Python, C++
