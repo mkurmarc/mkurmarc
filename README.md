@@ -7,8 +7,8 @@
     - **PostgreSQL**, **MySQL**, MongoDB
     - **ReactJS**, **Node.js**, Express
     - Flask, Pandas, SQLAlchemy, Plotly
-- Fun fact: I started and operated a small business selling home furnishings before enrolling into college for CS.
 - Graduated with BS in Computer Science, February 2021.
+- Fun fact: I started and operated a small business selling home furnishings before enrolling into college for CS.
 - Looking for permanent work as a web developer either in the Frontend, Backened, or Fullstack.  
 - Contact me via email: marc.rios1712@gmail.com
 <!--
