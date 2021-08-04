@@ -2,13 +2,13 @@
 
 - I’m currently working on my portfolio website using vanilla JS, Node.js, EJS, Express, and MongoDB.
 - My skills:
-    - Javascript, HTML, and CSS
-    - Java, Python, C++
-    - PostgreSQL, MySQL, MongoDB
+    - **Java**, Python, C++
+    - **Javascript**, HTML, CSS
+    - PostgreSQL, **MySQL**, MongoDB
     - ReactJS, Node.js, Express
     - Flask, Pandas, SQLAlchemy, Plotly
 - Graduated with BS in Computer Science, February 2021.
-- Looking for permanent work as a web developer either in the Frontend, Backened, or Fullstack. 
+- Looking for permanent work as a software engineer. 
 - Fun fact: I started and operated a small business selling home furnishings before enrolling into college for CS.
 - Contact me via email: marc.rios1712@gmail.com
 <!--
