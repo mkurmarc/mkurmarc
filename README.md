@@ -3,7 +3,7 @@
 - I’m currently working on my portfolio website using vanilla JS, Node.js, EJS, Express, and MongoDB.
 - My skills:
     - **Java**, Python, C++
-    - **Javascript**, HTML, CSS
+    - **Javascript**, HTML, CSS, FXML
     - PostgreSQL, **MySQL**, MongoDB
     - ReactJS, Node.js, Express, Heroku
     - Flask, Pandas, SQLAlchemy, Plotly
