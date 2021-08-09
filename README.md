@@ -2,10 +2,10 @@
 
 - I’m currently working on my portfolio website using vanilla JS, Node.js, EJS, Express, and MongoDB.
 - My skills:
-    - **Java**, Python, C++
+    - **Java**, Node.js, Python, C++
     - **Javascript**, HTML, CSS, FXML
     - PostgreSQL, **MySQL**, MongoDB
-    - ReactJS, Node.js, Express, Heroku
+    - ReactJS, Express, Heroku
     - Flask, Pandas, SQLAlchemy, Plotly
 - Graduated with BS in Computer Science, February 2021.
 - Looking for permanent work as a software engineer. 
