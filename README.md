@@ -4,9 +4,9 @@
 - My skills:
     - Java, Node.js, Python, C++
     - Javascript, HTML, CSS, FXML
-    - MySQL, PostgrSQL, MongoDB
-    - ReactJS, Express, Heroku
-    - Flask, Pandas, SQLAlchemy, and Plotly
+    - MySQL, PostgreSQL, MongoDB
+    - React, Express, Flask, Bootstrap, Heroku
+    - Pandas, SQLAlchemy, Numpy, Scikit-learn, Plotly
 - Graduated with BS in Computer Science, Spring 2021.
 - Looking for permanent work as a software engineer. 
 - Fun fact: I started and operated an online business helping families with furnishing their homes
