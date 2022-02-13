@@ -7,7 +7,7 @@
     - PostgreSQL, MySQL, MongoDB, SQLAlchemy, Pydantic, SQL injection
     - Express, Flask, FastAPI, Bootstrap, Heroku
 - Graduated with BS in Computer Science, Spring 2021
-- Currently a freelancing software engineer, but I am looking for permamnent work with a company as a SE.
+- Currently a freelancing software engineer, but I am looking for permamnent work with a company as a Software Engineer.
 - Fun fact: I started and operated an online business helping families with furnishing their homes
 - Contact me via email: marc.rios1712@gmail.com
 
