@@ -1,10 +1,12 @@
 ## Greetings! Welcome to my profile.
 
-### My skills:
-    - Python, Java, Node.js 
-    - Javascript, HTML, CSS, FXML, React, Bootstrap
-    - PostgreSQL, MySQL, MongoDB, SQLAlchemy, SQL injection
-    - Express, Flask, FastAPI, Heroku
+## My skills:
+- Python, Java, Node.js 
+- Javascript, HTML, CSS, FXML, React, Bootstrap
+- PostgreSQL, MySQL, MongoDB, SQLAlchemy, SQL injection
+- Express, Flask, FastAPI, Heroku
+
+## About Me
 - Graduated with BS in Computer Science, Spring 2021
 - Currently a freelancing software engineer, but I am looking for permamnent work with 
   a company as a Software Engineer.
