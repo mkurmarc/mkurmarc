@@ -1,6 +1,6 @@
 # Greetings! Welcome to my profile.
 
-## My skills:
+## My Skills:
 - Python, Java, Node.js 
 - Javascript, HTML, CSS, FXML, React, Bootstrap
 - PostgreSQL, MySQL, MongoDB, SQLAlchemy, SQL injection
@@ -9,8 +9,7 @@
 
 ## About Me
 - Graduated with BS in Computer Science, Spring 2021
-- Currently a freelancing software engineer, but I am looking for permamnent work with 
-  a company as a Software Engineer.
+- Currently working as a software engineer for my own company, Rivers Development
 - Fun fact: I started and operated an online business helping families with furnishing 
   their homes
 - Contact me via email: marc.rios1712@gmail.com
@@ -18,12 +17,17 @@
 
 ## Live Projects:
 
-### Web Application Dashboard with Machine Learning:
+### Interactive Web Application with Machine Learning:
+#### Deployed on Heroku:
 https://triple-crown-race-webapp.herokuapp.com/dashboard
 
 #### Description:
-Dashboard utilized "Triple Crown" horse race statistics as well as weather forecasts, 
-along with machine learning methods and processing such as linear regression to provide 
-end users with race predictions. Parsed, tested, organized, and analyzed horserace data 
-into interactive visuals, including scatter plots and bar graphs, for the end user to 
-research patterns within the information.
+
+Website with interactive data visualizations utilizing the Triple Crown Horserace data and 
+weather forecasts from the past 15 years. Parsed, tested, organized, and analyzed data into
+visuals, including scatter plots and bar graphs, for the end user to research patterns 
+within the information. Applied machine learning methods and processing, such as linear 
+regression, to provide end users with analysis and help with race predictions.
+
+#### Technologies: 
+Flask, Jinja2, PostgreSQL, SQLAlchemy, Pandas, Plotly, Numpy, Scikit-learn, Gunicorn
