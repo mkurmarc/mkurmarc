@@ -1,6 +1,6 @@
-### Hi there and welcome to my profile!
+## Greetings! Welcome to my profile.
 
-My skills:
+### My skills:
     - Python, Java, Node.js 
     - Javascript, HTML, CSS, FXML, React, Bootstrap
     - PostgreSQL, MySQL, MongoDB, SQLAlchemy, SQL injection
@@ -13,9 +13,9 @@ My skills:
 - Contact me via email: marc.rios1712@gmail.com
 
 
-# Live Projects:
+## Live Projects:
 
-Web Application Dashboard with Machine Learning:
+### Web Application Dashboard with Machine Learning:
 https://triple-crown-race-webapp.herokuapp.com/dashboard
 
 Description:
