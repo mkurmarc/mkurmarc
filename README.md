@@ -13,14 +13,14 @@ My skills:
 - Contact me via email: marc.rios1712@gmail.com
 
 
-Live Projects:
+# Live Projects:
 
-    Web Application Dashboard with Machine Learning:
-    https://triple-crown-race-webapp.herokuapp.com/dashboard
+Web Application Dashboard with Machine Learning:
+https://triple-crown-race-webapp.herokuapp.com/dashboard
 
-    Description:
-    Dashboard utilized "Triple Crown" horse race statistics as well as weather forecasts, 
-    along with machine learning methods and processing such as linear regression to provide 
-    end users with race predictions. Parsed, tested, organized, and analyzed horserace data 
-    into interactive visuals, including scatter plots and bar graphs, for the end user to 
-    research patterns within the information.
+Description:
+Dashboard utilized "Triple Crown" horse race statistics as well as weather forecasts, 
+along with machine learning methods and processing such as linear regression to provide 
+end users with race predictions. Parsed, tested, organized, and analyzed horserace data 
+into interactive visuals, including scatter plots and bar graphs, for the end user to 
+research patterns within the information.
