@@ -1,7 +1,6 @@
 ### Hi there and welcome to my profile!
 
-- Current Project: my personal portfolio website using vanilla JS, Node.js, EJS, Express, and MongoDB
-- My skills:
+My skills:
     - Python, Java, Node.js 
     - Javascript, HTML, CSS, FXML, React, Bootstrap
     - PostgreSQL, MySQL, MongoDB, SQLAlchemy, SQL injection
@@ -11,3 +10,13 @@
 - Fun fact: I started and operated an online business helping families with furnishing their homes
 - Contact me via email: marc.rios1712@gmail.com
 
+Live Projects:
+
+Web Application Dashboard with Machine Learning:
+https://triple-crown-race-webapp.herokuapp.com/dashboard
+
+    Description:
+    Dashboard utilized "Triple Crown" horse race statistics as well as weather forecasts, along with machine learning methods 
+    and processing such as linear regression to provide end users with race predictions. Parsed, tested, organized, and analyzed 
+    horserace data into interactive visuals, including scatter plots and bar graphs, for the end user to research patterns within 
+    the information
