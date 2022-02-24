@@ -21,7 +21,7 @@
 ### Web Application Dashboard with Machine Learning:
 https://triple-crown-race-webapp.herokuapp.com/dashboard
 
-Description:
+#### Description:
 Dashboard utilized "Triple Crown" horse race statistics as well as weather forecasts, 
 along with machine learning methods and processing such as linear regression to provide 
 end users with race predictions. Parsed, tested, organized, and analyzed horserace data 
