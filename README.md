@@ -1,6 +1,6 @@
 # Greetings! Welcome to my profile.
 
-## My skills:
+## My Skills:
 - Python, Java, Node.js 
 - Javascript, HTML, CSS, FXML, React, Bootstrap
 - PostgreSQL, MySQL, MongoDB, SQLAlchemy, SQL injection
