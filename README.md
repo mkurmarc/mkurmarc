@@ -3,8 +3,7 @@
 ## My Skills:
 - Python, Java, Node.js 
 - Javascript, HTML, CSS, FXML, React, Bootstrap
-- PostgreSQL, MySQL, MongoDB, SQLAlchemy, SQL injection
-	@@ -9,21 +9,25 @@
+- PostgreSQL, MySQL, MongoDB, SQLAlchemy
 
 ## About Me
 - Graduated with BS in Computer Science, Spring 2021
