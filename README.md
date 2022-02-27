@@ -21,7 +21,7 @@ https://triple-crown-race-webapp.herokuapp.com/dashboard
 
 #### Description:
 
-Website with interactive data visualizations utilizing the Triple Crown Horserace data and 
+Website with interactive data visualizations utilizing Triple Crown Horserace data and 
 weather forecasts from the past 15 years. Parsed, tested, organized, and analyzed data into
 visuals, including scatter plots and bar graphs, for the end user to research patterns 
 within the information. Applied machine learning methods and processing, such as linear 
