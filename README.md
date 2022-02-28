@@ -2,7 +2,7 @@
 
 ## My Skills:
 - Python, FastAPI, Node.js, Java 
-- Javascript, HTML, CSS, FXML, React, Bootstrap
+- JavaScript ES6, HTML, CSS, FXML, React, Bootstrap
 - PostgreSQL, MySQL, MongoDB, SQLAlchemy
 
 ## About Me
