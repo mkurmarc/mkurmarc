@@ -18,7 +18,7 @@
 ### Interactive Web Application with Machine Learning:
 #### Deployed on Heroku:
 https://triple-crown-race-webapp.herokuapp.com/dashboard 
-(Free tier, so initial webiste load is slow)
+(Free tier, so initial website load is slow)
 
 #### Description:
 
