@@ -1,7 +1,7 @@
 ### Greetings! Welcome to my profile.
 
 ## My Skills:
-- Python, FastAPI, Node.js, Java 
+- Python, Node.js, Java 
 - JavaScript ES6, HTML, CSS, FXML, React, Bootstrap
 - PostgreSQL, MySQL, MongoDB, SQLAlchemy
 
