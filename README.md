@@ -3,7 +3,7 @@
 ## My Skills:
 - Python, Node.js, Java 
 - JavaScript ES6, HTML, CSS, FXML, React, Bootstrap
-- PostgreSQL, MySQL, MongoDB, SQLAlchemy
+- PostgreSQL, MySQL, MongoDB
 
 ## About Me
 - Currently working as a software engineer for my own company, Rivers Development
