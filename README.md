@@ -29,4 +29,4 @@ within the information. Applied machine learning methods and processing, such as
 regression, to provide end users with analysis and help with race predictions.
 
 #### Technologies: 
-Flask, Jinja2, PostgreSQL, SQLAlchemy, Pandas, Plotly, Numpy, Scikit-learn, Gunicorn
+Flask, Jinja2, PostgreSQL, SQLAlchemy, Pandas, Plotly, Numpy, Scikit-learn, Gunicorn, and others.
