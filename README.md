@@ -1,4 +1,4 @@
-### Greetings! Welcome to my profile.
+# Greetings! Welcome to my profile.
 
 ## My Skills:
 - Python, Node.js, Java 
