@@ -1,4 +1,4 @@
-# Greetings! Welcome to my profile.
+# Greetings! Welcome to my profile. I am a full-stack web engineer with focus on the backend.
 
 ## My Skills:
 - Python, Node.js, Java 
