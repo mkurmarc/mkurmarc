@@ -2,9 +2,9 @@
 # I am a full-stack web engineer with focus on the backend.
 
 ## My Skills:
-- Python, Node.js, Java 
+- Python, Java, Node.js 
 - JavaScript ES6, HTML, CSS, FXML, React, Bootstrap
-- PostgreSQL, MySQL, MongoDB
+- PostgreSQL, MySQL
 
 ## About Me
 - Currently working as a software engineer for my own company, Rivers Development
