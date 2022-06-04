@@ -10,7 +10,7 @@
 - Currently working as a software engineer for my own company, Rivers Development
 - Starting my journey for M.S. in Data Analytics at the beginning of June, 2022.
 - Graduated with B.S. in Computer Science, Spring 2021
-- Fun fact: Before pursuing my CS degree, I started and operated a hybrid business, brick & mortar and online, which helped families in need with furnishing 
+- Fun fact: Before pursuing my CS degree, I started and operated a hybrid business, brick & mortar and online, which helped families in need by furnishing 
   their homes.
 - Contact me via email: marc.rios1712@gmail.com
 
