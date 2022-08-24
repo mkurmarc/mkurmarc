@@ -12,7 +12,6 @@
 - Graduated with B.S. in Computer Science, Spring 2021
 - Fun fact: Before pursuing my CS degree, I started and operated a hybrid business, brick & mortar and online, which helped families in need by furnishing 
   their homes
-- Starting my journey for M.S. in Data Analytics at the beginning of June, 2022
 - Contact me via email: marc.rios1712@gmail.com
 
 
