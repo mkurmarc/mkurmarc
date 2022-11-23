@@ -2,14 +2,13 @@
 # I am a full-stack web engineer with focus on the backend.
 
 ## My Skills:
-- Python, Java, Node.js 
-- JavaScript ES6, HTML, CSS, FXML, React, Bootstrap
+- Python, Node.js 
+- JavaScript ES6, HTML, CSS, React, Bootstrap
 - PostgreSQL, MySQL
 
 ## About Me
-- Currently working as a software engineer for my own company, Rivers Development
-- My current project is building a website with React using my own design I made in Figma
-- Graduated with B.S. in Computer Science, Spring 2021
+- My current project is building an admin dashboard with React using my own design I made in Figma
+- Graduated with B.S. in Computer Science in 2021
 - Fun fact: Before pursuing my CS degree, I started and operated a hybrid business, brick & mortar and online, which helped families in need by furnishing 
   their homes
 - Contact me via email: marc.rios1712@gmail.com
