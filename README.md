@@ -7,7 +7,7 @@
 - PostgreSQL, MySQL
 
 ## About Me
-- My current project is building an admin dashboard with React using my own design I made in Figma
+- My current project is building an admin dashboard with React using my own Figma design
 - Bachelors in Computer Science
 - Fun fact: Before pursuing my CS degree, I started and operated a hybrid business, brick & mortar and online, which helped families in need by furnishing 
   their homes
