@@ -8,7 +8,7 @@
 
 ## About Me
 - My current project is building an admin dashboard with React using my own design I made in Figma
-- Graduated with B.S. in Computer Science in 2021
+- Bachelors in Computer Science
 - Fun fact: Before pursuing my CS degree, I started and operated a hybrid business, brick & mortar and online, which helped families in need by furnishing 
   their homes
 - Contact me via email: marc.rios1712@gmail.com
