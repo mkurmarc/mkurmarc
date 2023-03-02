@@ -1,5 +1,5 @@
-# Greetings! Welcome to my profile. 
-# I am a full-stack web engineer with focus on the backend.
+# Welcome!
+# I am a full-stack software engineer with focus on web development
 
 ## My Skills:
 - Python, Node.js 
