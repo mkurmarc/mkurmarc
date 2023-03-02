@@ -1,5 +1,5 @@
 # Welcome!
-# I am a full-stack software engineer with focus on web development
+## I am a full-stack software engineer with focus on web development
 
 ## My Skills:
 - Python, Node.js 
