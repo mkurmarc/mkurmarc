@@ -7,7 +7,7 @@
 - PostgreSQL, MySQL
 
 ## About Me
-- My current project is building an admin dashboard with Next.js using my own Figma design
+- My current project is building a car rental website with react, typescript, and nextjs
 - Bachelors in Computer Science
 - Fun fact: Before pursuing my CS degree, I started and operated a hybrid business, brick & mortar and online, which helped families in need by furnishing 
   their homes
@@ -15,7 +15,7 @@
 
 
 
-## Live Projects:
+<!-- ## Live Projects:
 
 ### Interactive Web Application with Machine Learning:
 #### Deployed on Heroku:
@@ -31,4 +31,4 @@ Applied machine learning methods and processing, such as linear
 regression, to provide end users with analysis and help with race predictions.
 
 #### Technologies: 
-Flask, PostgreSQL, SQLAlchemy, Pandas, Jinja2, Plotly, Numpy, Scikit-learn, Gunicorn, and others.
+Flask, PostgreSQL, SQLAlchemy, Pandas, Jinja2, Plotly, Numpy, Scikit-learn, Gunicorn, and others. -->
