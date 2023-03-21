@@ -3,7 +3,7 @@
 
 ## My Skills:
 - Python, Node.js 
-- JavaScript, HTML, CSS, React, JSX
+- JavaScript, HTML, CSS, React, JSX, Next.js
 - PostgreSQL, MySQL
 
 ## About Me
