@@ -2,7 +2,7 @@
 ## I am a full-stack software engineer with focus on web development
 
 ## My Skills:
-- Python, Node.js 
+- Python, Node.js, Java 
 - JavaScript, HTML, CSS, React, JSX, Next.js
 - PostgreSQL, MySQL
 
