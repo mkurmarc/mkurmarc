@@ -2,12 +2,12 @@
 ## I am a full-stack software engineer with focus on web development
 
 ## My Skills:
-- Python, Node.js, Java 
+- Python, Java, Node.js 
 - JavaScript, HTML, CSS, React, JSX, Next.js
 - PostgreSQL, MySQL
 
 ## About Me
-- My current project is building a car rental website with react, typescript, and nextjs
+- My current project is building a ship port rental web app with React, Typescript, Nextjs, and FastAPI
 - Bachelors in Computer Science
 - Fun fact: Before pursuing my CS degree, I started and operated a hybrid business, brick & mortar and online, which helped families in need by furnishing 
   their homes
