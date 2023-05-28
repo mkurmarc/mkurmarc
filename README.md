@@ -1,5 +1,5 @@
 # Welcome!
-## I am a full-stack software engineer with experience with web development
+## I am a full-stack software engineer with experience in web development
 
 ## My Skills:
 - Python, Java, Node.js 
