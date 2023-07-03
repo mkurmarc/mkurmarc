@@ -7,7 +7,7 @@
 - PostgreSQL, MySQL
 
 ## About Me
-- My current project is building a ship port rental web app with React, Typescript, Nextjs, and FastAPI
+- My current project is building a ship port rental web app with React, Typescript, Nextjs, FastAPI, PostgreSQL
 - Bachelors in Computer Science
 - Taking courses part-time in Data Analytics to help me understand and leverage LLMs
 - Fun fact: Before pursuing my CS degree, I started and operated a hybrid business, brick & mortar and online, which helped families in need by furnishing 
