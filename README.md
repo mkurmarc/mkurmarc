@@ -2,9 +2,9 @@
 ## I am a software engineer with experience in web development
 
 ## My Skills:
-- C#, Python, Java
+- C#, Python
 - JavaScript, React, HTML, CSS 
-- PostgreSQL, MySQL, SQL Server
+- PostgreSQL, SQL Server
 
 ## About Me
 - Bachelors in Computer Science
