@@ -2,14 +2,14 @@
 ## I am a software engineer with experience in web development
 
 ## My Skills:
-- C#, Python
-- JavaScript, React, HTML, CSS 
+- JavaScript, React, Next.js, HTML, CSS
+- Python, Typescript
 - PostgreSQL, SQL Server
 
 ## About Me
 - Bachelors in Computer Science
-- Fun fact: Before pursuing my CS degree, I started and operated a hybrid business, brick & mortar and online, which helped families in need by furnishing 
-  their homes
+- Fun fact: Before pursuing my CS degree, I started and operated a hybrid furniture business, brick & mortar and online, which helped families in need by furnishing 
+  their homes at no cost to them.
 - Contact me via email: marc.rios1712@gmail.com
 
 
