@@ -2,7 +2,7 @@
 ## I am a software engineer with experience in web development
 
 ## My Skills:
-- JavaScript, React, Next.js, HTML, CSS
+- JavaScript, React, Next.js, Tailwind, HTML, CSS
 - Python, Typescript
 - PostgreSQL, SQL Server
 
